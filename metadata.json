@@ -1,0 +1,6 @@
+{
+  "name": "CyberShield - Cybersecurity & Scam Awareness Hub",
+  "description": "Comprehensive cybersecurity awareness portal with real-world fraud data, scam guides, interactive quiz simulators, emergency golden-hour protocol, fake link & QR analyzer, senior citizen & student safety modes, helpline directory, and multi-language accessibility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
